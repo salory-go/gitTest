@@ -7,7 +7,7 @@
  **/
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("123");
-        System.out.println("master");
+        System.out.println("Hello hot-fix");
+        System.out.println("hot-fix and master");
     }
 }
